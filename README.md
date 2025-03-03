@@ -1,16 +1,13 @@
-## Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=28&pause=1000&color=FFDD33&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Antonio.)](https://git.io/typing-svg)
 
-<!--
-**antoniocapone/antoniocapone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:** I'm a computer engineering student with major interests in _electronics_,  _computer science_ and the entire _embedded systems_ world.
+ 
+## Contact information
+- You can contact me at: antonino2002d@gmail.com
+- Visit my [LinkedIn profile](https://linkedin.com/in/antonio-capone-7842571b9)
 
-Here are some ideas to get you started:
+---
+[![antoniocapone's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocapone&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Known Tools
+[![](https://skillicons.dev/icons?i=linux,git,python,c,cpp,rust,bash,vscode,arduino,raspberrypi)](https://skillicons.dev)
