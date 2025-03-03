@@ -17,6 +17,6 @@
 ## Known Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,zig,git,github,linux,vscode,raspberrypi,matlab,latex,idea,flask,cmake,bash,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,zig,git,github,linux,vscode,raspberrypi,matlab,latex,flask,cmake,bash,arduino" />
   </a>
 </p>
