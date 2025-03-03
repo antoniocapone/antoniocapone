@@ -15,4 +15,8 @@
 </a>
 
 ## Known Tools
-[![](https://skillicons.dev/icons?i=linux,git,python,c,cpp,rust,bash,vscode,arduino,raspberrypi)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,zig,git,github,linux,vscode,raspberrypi,matlab,latex,idea,flask,cmake,bash,arduino" />
+  </a>
+</p>
