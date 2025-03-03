@@ -7,7 +7,12 @@
 - Visit my [LinkedIn profile](https://linkedin.com/in/antonio-capone-7842571b9)
 
 ---
-[![antoniocapone's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocapone&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antoniocapone&theme=onedark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocapone&layout=donut&custom_title=My%20Top%20Langs" />
+</a>
 
 ## Known Tools
 [![](https://skillicons.dev/icons?i=linux,git,python,c,cpp,rust,bash,vscode,arduino,raspberrypi)](https://skillicons.dev)
