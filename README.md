@@ -6,14 +6,6 @@
 - You can contact me at: antonino2002d@gmail.com
 - Visit my [LinkedIn profile](https://linkedin.com/in/antonio-capone-7842571b9)
 
----
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antoniocapone&theme=onedark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocapone&layout=donut&custom_title=My%20Top%20Langs" />
-</a>
-
 ## Known Tools
 <p align="center">
   <a href="https://skillicons.dev">
